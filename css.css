@@ -9,4 +9,33 @@ body{
     
 }
 
+.dado{
+	background-image:url(https://i.pinimg.com/originals/0b/61/ba/0b61ba096406865f0e76a9b07e36dc69.png);
+	background-position:-803px;
+	width:158px;
+	height:156px;
+}
+
+
+#contenedor_dados{
+	display:flex;
+	width:315px;
+	margin: -10px 520px;
+}
+
+
+#boton_tirar{
+	display:flex;
+		align-items: center;
+		justify-content: center;
+	width:150px;
+	height:70px;
+	margin: 80px 600px;
+	background-color:#FF5600;
+	color:#00007A;
+	font-size: 25px;
+	border:120px;
+	border-radius:40px;
+	cursor:pointer;
+}
 	
